@@ -1,4 +1,4 @@
 webAdmin
 ========
 
-Content Management System
+Content Management System based on Nette Framework (http://nette.org). 
